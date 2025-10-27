@@ -45,3 +45,4 @@ with optional AI-powered experimental features for predictive scaling and automa
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
 ## FAQ
+update
