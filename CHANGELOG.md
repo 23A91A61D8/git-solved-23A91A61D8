@@ -1,3 +1,14 @@
+
+# CHANGELOG
+
+### Phase 4: Git Fetch & Pull
+- Used `git fetch` 1 time  
+- Used `git pull` 1 time
+### Phase 4: Git Cherry-Pick
+- Used `git cherry-pick` 1 time
+### Phase 4: Git Reset & Revert
+- Used `git reset` 3 times  
+- Used `git revert` 1 time
 - db8a7ed: docs: Add Git Mastery Challenge journey documentation (venky, 86 seconds ago)
 - 20f80c7: docs: Record tag creation in CHANGELOG (venky, 10 minutes ago)
 - 3d534bb: docs: Update README (venky, 28 minutes ago)
@@ -12,3 +23,4 @@
 - 0312c6f: updating main (Hanu Gupta, 4 days ago)
 - fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
 - ae630eb: Initial commit (Hanu Gupta, 4 days ago)
+
