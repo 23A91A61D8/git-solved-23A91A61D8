@@ -1,12 +1,13 @@
 # DevOps Simulator
 
-A comprehensive CI/CD configuration management tool for enterprise deployments.
+A comprehensive CI/CD configuration management tool for enterprise deployments  
+with optional AI-powered experimental features for predictive scaling and automation.
 
 ## Project Status
-- **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
-- **Environments**: Production & Development
+- **Version**: 3.0.0 (Production + Experimental)
+- **Environments**: Production, Development, and Testing
 - **Student**: Venkata Lakshmi
-- **Student ID**: AEC12345  <!-- you can replace this with your real ID -->
+- **Student ID**: 23A91A61D8
 
 ## Features
 
@@ -28,6 +29,14 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Debug mode active  
 - Enhanced logging  
 - Mock external APIs  
+
+### Experimental AI Features (Optional)
+> ⚙️ These are advanced and not production-stable yet.
+- 🤖 AI-powered deployment optimization  
+- 🌐 Multi-cloud orchestration (AWS, Azure, GCP, DigitalOcean)  
+- 📈 Predictive scaling with machine learning  
+- 🔒 Zero-trust security architecture  
+- 🎯 Chaos engineering tools  
 
 ## Quick Start
 
