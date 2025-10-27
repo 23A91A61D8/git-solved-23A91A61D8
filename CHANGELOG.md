@@ -1,9 +1,14 @@
-# CHANGELOG
-
-### Phase 4: Git Fetch & Pull
-- Used `git fetch` 1 time  
-- Used `git pull` 1 time
-### Phase 4: Git Cherry-Pick
-- Used `git cherry-pick` 1 time
-### Phase 4: Git Tag
-- Created 2 tags: v1.0.0 and v1.1.0
+- db8a7ed: docs: Add Git Mastery Challenge journey documentation (venky, 86 seconds ago)
+- 20f80c7: docs: Record tag creation in CHANGELOG (venky, 10 minutes ago)
+- 3d534bb: docs: Update README (venky, 28 minutes ago)
+- 2380181: docs: Record cherry-pick usage in CHANGELOG (venky, 32 minutes ago)
+- be78743: feat: Add new feature (venky, 39 minutes ago)
+- 937ffb1: docs: Add FAQ section (venky, 41 minutes ago)
+- e089328: docs: Record fetch and pull usage in CHANGELOG (venky, 44 minutes ago)
+- ce15020: merge: Resolved all conflicts between main and conflict-simulator branches (venky, 53 minutes ago)
+- 4205d86: merge: Resolve all conflicts between main and dev branches (venky, 2 hours ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 4 days ago)
+- 02011a5: updating dev (Hanu Gupta, 4 days ago)
+- 0312c6f: updating main (Hanu Gupta, 4 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 4 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 4 days ago)
